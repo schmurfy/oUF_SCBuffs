@@ -1,0 +1,9 @@
+## Interface: 30200
+## Title: oUF_|cfe87b23fSCBuffs|r
+## Author: Schmurfy
+## Notes: Buffs layout
+## RequiredDeps: oUF
+
+
+buffs.lua
+
